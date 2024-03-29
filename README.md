@@ -1,5 +1,5 @@
 # div-python-project
-Diverse Python Project including some class assignments. The goal of these projects is to use only the standard python packages.
+Diverse Python Project including some class assignments. I did these projects to learn how to code with Python.
 
 ## File
 - `pizza_calculator.py`: defines functions for calculating the fair quantity and price of small pizzas compared to a large pizza based on their diameters and prices, and provides a menu for the user to choose between quantity or price mode.
